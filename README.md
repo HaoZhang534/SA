@@ -1,15 +1,14 @@
 knapsack
 ========
 
-The *inst* directory contains data for experiments. The *sol* directory contains right answers for experiments checking.
-
-Format of instance files:
+*inst*中是测试数据， *sol* 中是模拟退火算法求出的解
+测试数据格式:
 * ID
 * the number of items
 * the knapsack capacity
 * sequence of weight-cost pairs
 
-Format of solution files:
+解的格式:
 * ID
 * the number of items
 * the best cost value
